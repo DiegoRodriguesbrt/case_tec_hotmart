@@ -1,0 +1,6 @@
+gmv_date,subsidiary,gmv_total_day,calculation_timestamp,is_latest
+2025-10-28,nacional,152430.55,2025-10-29 02:15:07.123,false
+2025-10-28,nacional,152980.55,2025-10-29 06:45:31.847,true
+2025-10-28,internacional,28450.10,2025-10-29 06:45:31.847,true
+2025-10-29,nacional,167200.10,2025-10-30 06:41:12.904,true
+2025-10-29,internacional,30110.44,2025-10-30 06:41:12.904,true
